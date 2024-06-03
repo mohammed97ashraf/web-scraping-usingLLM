@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "Name": "Apple iPhone 15 (128 GB) - Black",
+            "Price": "\u20b971,499"
+        },
+        {
+            "Name": "Apple iPhone 14 (128 GB) - Midnight",
+            "Price": "\u20b962,800"
+        },
+        {
+            "Name": "Apple iPhone 13 (128GB) - Blue",
+            "Price": "\u20b948,799"
+        },
+        {
+            "Name": "Apple iPhone 13 (128GB) - Pink",
+            "Price": "\u20b948,799"
+        },
+        {
+            "Name": "Apple iPhone 13 (128GB) - Midnight",
+            "Price": "\u20b948,999"
+        }
+    ]
+}
